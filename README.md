@@ -3,12 +3,12 @@ Smart Contract Audit Report
 AUDIT SUMMARY
 THUNDER TREND TOKEN Audit Report done by Solidity Finance THUNDER TREND TOKEN is a new TRC-20 token on TRON.
 
-Link to Audit Report https://solidity.finance/audits/THUNDERTRENDTOKEN/
+Link to Audit Report https://solidity.finance/audits/THUNDERTRENDTOKEN/ <br>
 Link to Smart Contract https://tronscan.org/#/token20/TYJt6vAN3KtG7WtgqSQbNFei64DAtnBdbk/code
 
 For this audit, we reviewed the project team's TronThunderToken contract at TYJt6vAN3KtG7WtgqSQbNFei64DAtnBdbk on the TRON Mainnet.
 
-AUDIT FINDINGS
+AUDIT FINDINGS <br>
 Please ensure trust in the team prior to investing as they currently own 100% of the total supply.
 Date: April 3rd, 2022.
 CONTRACT OVERVIEW
